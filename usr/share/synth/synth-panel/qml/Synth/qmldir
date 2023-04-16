@@ -1,0 +1,9 @@
+module Synth
+SynthBlur 1.0 SynthBlur.qml
+SynthCalendar 1.0 SynthCalendar.qml
+SynthDisplay 1.0 SynthDisplay.qml
+SynthAudioControl 1.0 SynthAudioControl.qml
+SynthBrightness 1.0 SynthBrightness.qml
+SynthTrayOption 1.0 SynthTrayOption.qml
+SynthWifi 1.0 SynthWifi.qml
+SynthPower 1.0 SynthPower.qml

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Synth Session
+Name[pt_br]=Sessão da Synth
+Comment=Config from session for Emmi
+Exec=synth-session
+#TryExec=compton
+Icon=
+#Type=Application
+Type=XSession
+DesktopNames=Synth
+#DesktopNames=EMMIOS
+#Name[pt_BR]=EmmiOS.desktop
